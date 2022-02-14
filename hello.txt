@@ -1,2 +1,1 @@
-Hello
-selamat pagi
+Hello word
